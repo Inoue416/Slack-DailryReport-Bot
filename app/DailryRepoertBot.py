@@ -10,7 +10,7 @@ today: datetime = datetime.datetime.now()
 
 try:
 
-    send_message: str = "{}年{}月{}日\n本日の各タスクの進捗をスレッド下に記入してください\n\n\
+    send_message: str = "{}年{}月{}日\n本日の各タスクの進捗をスレッド下に記入してください\n\
 ```\n報告テンプレ\n①今日の活動時間\n\
 ○○:○○-○○:○○\n\
 ②活動内容\n\
